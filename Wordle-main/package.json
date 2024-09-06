@@ -7,7 +7,7 @@
   "private": true,
   "homepage": "https://hanieas.github.io/Wordle",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.4.0",
@@ -16,7 +16,7 @@
     "@types/react-dom": "^17.0.11",
     "an-array-of-english-words": "^2.0.0",
     "install": "^0.13.0",
-    "npm": "^8.3.2",
+    "npm": "^10.8.3",
     "react": "^17.0.2",
     "react-cookie": "^4.1.1",
     "react-dom": "^17.0.2",
